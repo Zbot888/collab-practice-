@@ -7,6 +7,18 @@ nav li {
     width: 420px;
 }
 
+.col-sm{
+    border: 2px solid black;
+    height: 300px;
+}
+
+.one{
+    background-color: blueviolet;
+}
+
+.two {
+    background-color: blue;
+}
 * {
   margin: 0;
   padding: 0;
