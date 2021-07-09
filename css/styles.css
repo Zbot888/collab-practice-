@@ -1,15 +1,17 @@
 nav li {
-    float: left;
+    float: right;
     list-style-type: none;
     padding: 10px;
     border: solid 2px black;
     background-color: burlywood;
-    width: 420px;
+    width: 380px;
+    text-align: center;
 }
 
-.col-sm{
+.col{
     border: 2px solid black;
     height: 300px;
+    text-align: center;
 }
 
 .one{
