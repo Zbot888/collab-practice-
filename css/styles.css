@@ -8,6 +8,7 @@ nav li {
     float: left;
     list-style-type: none;
     padding: 10px;
+    margin-bottom: -16px;
     border: solid 2px black;
     background-color: burlywood;
     /* width: 380px; */
