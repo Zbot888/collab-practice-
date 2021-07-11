@@ -10,9 +10,10 @@ nav li {
     padding: 10px;
     border: solid 2px black;
     background-color: burlywood;
-    width: 380px;
+    /* width: 380px; */
     text-align: center;
     text-decoration: none;
+    flex-grow: 1;
 }
 
 nav a:visited{
@@ -32,7 +33,7 @@ text-align: center;
 font-family: monospace;
 }
 
-.col{
+.col-6{
     border: 2px solid black;
     height: 300px;
     text-align: center;
